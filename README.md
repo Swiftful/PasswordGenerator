@@ -6,7 +6,6 @@
   </a>
 </p>
 
-[![](https://img.shields.io/badge/License-green)]()
 </div>
 
 ## About Password Generator
