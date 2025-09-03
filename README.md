@@ -27,12 +27,12 @@ Password Generator is a program designed for macOS that allows you to create pas
 
 ## Images
 
-> App View
+
 ![](https://github.com/Swiftful/PasswordGenerator/blob/main/Screenshot1.png)
+> App View
 
-> When the password was created
 ![](https://github.com/Swiftful/PasswordGenerator/blob/main/Screenshot2.png)
-
+> When the password was created
 
 ## [License][license]
 Password Generator is licensed, as found in the [LICENSE][license] file.
