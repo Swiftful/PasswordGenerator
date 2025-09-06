@@ -12,7 +12,7 @@
 
 Password Generator is a program designed for macOS that allows you to create passwords in many different combinations.
 
-- ⚡ You can create thousands, even millions of ![unique](https://img.shields.io/badge/unique-green) passwords with different combinations.
+- ⚡ You can create thousands, even millions of "<span style="color:green; text-decoration: underline;">unique</span>" passwords with different combinations.
 
 - ⚡ You can quickly write passwords to a file.
 
