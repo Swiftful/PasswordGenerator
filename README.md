@@ -12,7 +12,7 @@
 
 Password Generator is a program designed for macOS that allows you to create passwords in many different combinations.
 
-- ⚡ You can create thousands, even millions of <i>italic</i> unique passwords with different combinations.
+- ⚡ You can create thousands, even millions of <b>unique</b> passwords with different combinations.
 
 - ⚡ You can quickly write passwords to a file.
 
